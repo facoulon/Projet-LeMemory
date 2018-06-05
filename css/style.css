@@ -13,3 +13,7 @@ position: absolute;
 .facedown {
 position: absolute;
 }
+
+.visible {
+    position: absolute;
+}
