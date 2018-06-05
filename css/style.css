@@ -2,18 +2,18 @@ div {
   display : inline;
   min-width: 40px;
   font-size: 100px;
-  line-height: 2em;
-  padding: 10px;
+  line-height: 2.5em;
+  padding: 100px;
 }
 
 .carte {
-visibility: hidden;
+position: absolute;
 }
 
 /* .facedown:active {
   display:none;
 } */
 
-.carte:hover {
-visibility: visible;
+.facedown {
+position: absolute;
 }
